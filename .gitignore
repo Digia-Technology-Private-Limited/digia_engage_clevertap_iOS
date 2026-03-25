@@ -1,0 +1,12 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Swift driver incremental outputs (should live under DerivedData/.build; remove if emitted here)
+*.swiftdeps
+*.dia
+*.d
+
+# Xcode
+DerivedData/
+xcuserdata/
